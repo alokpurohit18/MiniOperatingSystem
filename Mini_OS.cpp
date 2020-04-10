@@ -1203,7 +1203,7 @@ void main_screen1()
           cout<<"\n\n\t\t\t\t\t\t      Loading\n\t\t\t\t  ";
           for(int j=1;j<=i;j++)
           {
-              cout<<"²";
+              cout<<"Â²";
           }
           cout<<"\n\n\t\t\t\t\t          "<<2*i<<"%";
 
