@@ -1,0 +1,29 @@
+COMMANDS FOR THE OPERATING SYSTEM - 
+
+#These are the commands that can be used in the operating system terminal.Using other commands will given an error.
+
+1.file manager - To open the file manager of the OS.
+
+2.i/o manager - To open the i/o manager of the OS.
+
+3.memory manager - To open the memory manager of the OS.
+
+4.process manager - To open the memory manager of the OS.
+
+5.system exit - To close and reload the OS.
+
+6.create dir 'directory_name' - To create new new directory/folder using the file manager of the OS.
+
+7.create file 'directory_name' 'file_name' - To create new new file using the file manager of the OS.
+
+8.show dir - To display the existing directories.
+
+9.show files 'directory_name' - To display the files in a particular folder.
+
+10.delete dir 'directory_name' - To delete a particular folder/directory from the system using the file manager of the OS.
+
+11.delete file 'directory_name' 'file_name' - To delete a particular file from the system using the file manager of the OS.
+
+12.open/close file 'directory_name' 'file_name' - To open or close a particular file.
+
+13.clr scr - To clear the terminal screen.
