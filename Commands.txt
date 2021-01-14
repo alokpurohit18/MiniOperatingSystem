@@ -1,6 +1,6 @@
 COMMANDS FOR THE OPERATING SYSTEM - 
 
-#These are the commands that can be used in the operating system terminal.Using other commands will given an error.
+#These are the commands that can be used in the operating system terminal. Using other commands will given an error.
 
 1.file manager - To open the file manager of the OS.
 
