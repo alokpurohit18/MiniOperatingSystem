@@ -41,7 +41,7 @@ void create_directory(string directory)
     int flag=check_directory(directory);
     if(flag==1)
     {
-        cout<<"directory already exists...\n"<<endl;
+        cout<<"directory already exists..\n"<<endl;
         accept_command();
     }
     else
@@ -95,7 +95,7 @@ void create_file(string directory,string file)
    int flag1=check_directory(directory);
    if(flag1==0)
    {
-       cout<<"directory '"<<directory<<"' does not exist...\n"<<endl;
+       cout<<"directory '"<<directory<<"' does not exist..\n"<<endl;
        accept_command();
    }
 
@@ -1203,7 +1203,7 @@ void main_screen1()
           cout<<"\n\n\t\t\t\t\t\t      Loading\n\t\t\t\t  ";
           for(int j=1;j<=i;j++)
           {
-              cout<<"²";
+              cout<<"Â²";
           }
           cout<<"\n\n\t\t\t\t\t          "<<2*i<<"%";
 
