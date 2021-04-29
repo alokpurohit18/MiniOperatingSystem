@@ -1,4 +1,4 @@
-# MiniOperatingSystem
+# Mini Operating System
 
 A Mini Operating System based on dos/cmd.
 
