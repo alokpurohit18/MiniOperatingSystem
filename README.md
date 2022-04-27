@@ -1,6 +1,6 @@
 # Mini Operating System
 
-A Mini Operating System based on dos/cmd.
+A Mini Operating System based on DOS/CMD.
 
 Installation steps:
 
